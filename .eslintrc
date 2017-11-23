@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "react",
+    "react-native"
+  ],
+  "rules": {
+    "indent": ["error", 2]
+  }
+}
